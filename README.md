@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<h2 align="center">Hi! mình là Trung đây</h2>
 
-<!--
-**tongxuantrung/tongxuantrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Tôi tên là: Tống Xuân Trung <br>
+> Nhưng các bạn có thể gọi tôi là: Trung <br>
+>> À, tôi sinh năm 2001 và thành thật mà nói tôi đã dành quá nhiều thời gian cho công việc.<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👀 Tôi thích những thứ làm tôi thoải mái <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
+  - đi dạo (Đà Nẵng)
+  - đi la cà quán xá 
+- 📫 Các bạn có thể liên hệ và ủng hộ với Trung qua
+
+
+<p align="center">
+    <a href="mailto:admin@icamta.com">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
+  </a>
+  <a href="https://www.facebook.com/tongxuantrung.art">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
+  </a>
+  <a href="https://www.youtube.com/@camtavietnam">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/youtube.svg">
+  </a>
+    <a href="https://t.me/tongxuantrung">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/telegram-app.svg">
+  </a>
