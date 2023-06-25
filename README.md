@@ -10,19 +10,20 @@
 
 
 - 👀 Tôi thích những thứ làm tôi thoải mái <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
-  - đi dạo (Đà Nẵng)
-  - đi la cà quán xá 
+  - Đi dạo (Đà Nẵng)
+  - Đi la cà quán xá
+  - Thích ăn đồ nướng 
 - 📫 Các bạn có thể liên hệ và ủng hộ với Trung qua
 
 
 <p align="center">
-    <a href="mailto:admin@icamta.com">
+    <a href="mailto:admin@haitavn.com">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
-  <a href="https://www.facebook.com/tongxuantrung.art">
+  <a href="https://www.facebook.com/tongxuantrung.2001">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
   </a>
-  <a href="https://www.youtube.com/@camtavietnam">
+  <a href="https://www.youtube.com/@tolatrung">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/youtube.svg">
   </a>
     <a href="https://t.me/tongxuantrung">
