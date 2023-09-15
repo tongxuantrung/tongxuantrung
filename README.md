@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <a href="mailto:admin@haitavn.com">
+    <a href="mailto:lienhe@sata.pro.vn">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
   <a href="https://www.facebook.com/tongxuantrung.2001">
