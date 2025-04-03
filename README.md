@@ -10,14 +10,15 @@
 
 
 - 👀 Tôi thích những thứ làm tôi thoải mái <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
-  - Đi dạo (Đà Nẵng)
+  - Đi dạo
+  - Dã Ngoại, Cắm Trại, Câu Cá
   - Đi la cà quán xá
   - Thích ăn đồ nướng 
 - 📫 Các bạn có thể liên hệ và ủng hộ với Trung qua
 
 
 <p align="center">
-    <a href="mailto:lienhe@sata.pro.vn">
+    <a href="mailto:lienhe@2001.vn">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
   <a href="https://www.facebook.com/tongxuantrung.2001">
